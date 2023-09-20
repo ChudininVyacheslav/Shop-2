@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shop-2/static/css/main.c5a2515e.css",
+    "main.js": "/Shop-2/static/js/main.3d6a0015.js",
+    "static/media/bg.jpg": "/Shop-2/static/media/bg.dc49a968199a74d22ec9.jpg",
+    "static/media/table_2.jpg": "/Shop-2/static/media/table_2.4adb4e2ad20335f77f19.jpg",
+    "static/media/chair_1.jpg": "/Shop-2/static/media/chair_1.57203b3e3541a0ce84a4.jpg",
+    "static/media/chair_3.jpg": "/Shop-2/static/media/chair_3.4b070949192e200f67f9.jpg",
+    "static/media/table_3.jpg": "/Shop-2/static/media/table_3.e896be30a9417b8b457e.jpg",
+    "static/media/chair_2.jpg": "/Shop-2/static/media/chair_2.b3b422c585b9df2adbb2.jpg",
+    "static/media/table_1.jpg": "/Shop-2/static/media/table_1.ab0d60251e29ae0084d6.jpg",
+    "index.html": "/Shop-2/index.html",
+    "main.c5a2515e.css.map": "/Shop-2/static/css/main.c5a2515e.css.map",
+    "main.3d6a0015.js.map": "/Shop-2/static/js/main.3d6a0015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a2515e.css",
+    "static/js/main.3d6a0015.js"
+  ]
+}
